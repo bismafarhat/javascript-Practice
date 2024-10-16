@@ -1,0 +1,42 @@
+.list{
+    height: 500px;
+    width: 600px;
+    border: none;
+    margin-left: 400px;
+    border-radius: 25px;
+    background-color: rgb(78, 255, 255);
+}
+input{
+    width: 500px;
+    height: 40px;
+    margin-left: 15px;
+    margin-top: 10px;
+    border-radius: 12px;
+    border: none;
+}
+#btn{
+    width: 60px;
+    height: 40px;
+    border: 1px solid white;
+    border-radius: 12px;
+    background-color: white;
+    color:black;
+    font-size: 15px;
+}
+h1{
+    margin-left: 200px;
+    padding-top: 19px;
+    color: black;
+   
+}
+/* .list-item{
+   height: 30px;
+   width: 60px;
+   border: 1px solid black;
+} */
+#edit{
+    position: absolute;
+    margin-top:10px;
+    left:860px;
+ }
+ 

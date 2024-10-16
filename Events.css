@@ -1,0 +1,9 @@
+.box{
+    height: 200px;
+    width: 200px;
+    background-color: blue;
+    margin-left: 100px;
+}
+#btn{
+    margin-left: 100px;
+}
